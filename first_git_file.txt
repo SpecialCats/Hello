@@ -1,2 +1,3 @@
 Hello my first git!
 I'm happy learn it.
+Today is my second day learning git software.
